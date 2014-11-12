@@ -1,0 +1,32 @@
+<div id="footer">
+		
+	<div class="wrapper">
+					
+		<div id="footer-left">
+			<a href="">Sign up for our e-newsletter</a>
+			
+			<div id="progress-bar">
+				<div id="progress" style="width:<?php echo $progress; ?>%;"></div>
+			</div><!-- #progress-bar -->
+			
+		</div><!-- #footer-left -->
+			
+		<div id="footer-right">
+			<div id="social-nav">
+				<ul>
+					<li><a href=""><img src="images/linkedin.png" alt="LinkedIn" /></a></li>
+					<li><a href=""><img src="images/plus.png" alt="Twitter" /></a></li>
+					<li><a href=""><img src="images/fb.png" alt="facebook" /></a></li>
+					<li><a href=""><img src="images/twit.png" alt="Google +" /></a></li>
+					
+				</ul>
+			</div><!-- #social-nav -->
+		</div><!-- #footer-right -->
+			
+		<div class="clear"></div>
+	
+	</div><!-- #wrapper -->
+</div><!-- #footer -->
+
+</body>
+</html>
